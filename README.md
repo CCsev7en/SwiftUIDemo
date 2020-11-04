@@ -2,7 +2,7 @@
 ## Summary
 * Used SwiftUI to implement a trip app
 * Used tabItem to implement the tab view
-* Applied autolayout in SwiftUI by using 
+* Applied autolayout in SwiftUI by using HStack and VStack
 * Added ScrollView to support scrollable view
 * Used customized fonts and font colors
 
